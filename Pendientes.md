@@ -6,3 +6,5 @@ AQUÍ SE ESCRIBEN LOS TRABAJOS PENDIENTES QUE SE LE DEBEN HACER A ESTE PROYECTO:
 4. añadir en que gestaciones se pueden gestionar tramites administrativos de la civica(sacar nueva civica, cambiarla, reportarla, etc.)
 5. añadir los canales de comunicacio n oficiales del Metro para que el usuario realice tramites si lo requiere o resuelve dudas.
 6. investigar como mejorar la interactividad del mapa (de forma gratuita sin que haya que integrar una API paga de Google Maps).
+7. consultar en tiempo real sobre novedades e interrupciones en los transportes del stiva (cerraron la estacion prado, cerraron la estacion Ruta N metroplus por protestas en la U de A). Inmediatamente la aplicacion debe surgir Rutas Alternas.
+8. Consultar sobre eventos climaticos en tiempo real. La aplicacion debe decir si en cierto sector cercano a estaciones de la ruta sugerida hay eventos climaticos a considerar
